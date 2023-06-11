@@ -121,14 +121,13 @@ if _name_ == '_main_':
 
 ![robo](./img/robomaster.png)
 ## Starting point:
-![244121923-12b53294-6293-42a6-9544-5c4e7d7c4cc2](https://github.com/roshiniRK/mobilerobot-openloopcontrol/assets/118956165/7c3964ce-b162-46ba-a043-d4fdb930ca5f)
-<br/>
+![244121923-12b53294-6293-42a6-9544-5c4e7d7c4cc2](https://github.com/roshiniRK/mobilerobot-openloopcontrol/assets/118956165/44ea529c-1bf7-4d01-9f2a-8e8070bee087)
 ## Turning point:
-![244122073-97b29097-c9fd-44c4-a1eb-afc0dc392347](https://github.com/roshiniRK/mobilerobot-openloopcontrol/assets/118956165/788cc4f3-b471-4671-becc-01fa75da365b)
-<br/>
+
+![244122073-97b29097-c9fd-44c4-a1eb-afc0dc392347](https://github.com/roshiniRK/mobilerobot-openloopcontrol/assets/118956165/efb575ec-7c76-4ab6-9ce4-f967cf29dcc0)
 ## End point:
-![244122221-05213b9c-0e4b-475d-a6b0-6c93d592c600](https://github.com/roshiniRK/mobilerobot-openloopcontrol/assets/118956165/c7a391f3-6de8-48cb-8bd4-d5ae63dc2de4)
-<br/>
+
+![244121923-12b53294-6293-42a6-9544-5c4e7d7c4cc2](https://github.com/roshiniRK/mobilerobot-openloopcontrol/assets/118956165/c02fce6a-e6c4-4064-81a3-93e397c47808)
 
 ## MobileRobot Movement Video:
 
